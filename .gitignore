@@ -1,0 +1,8 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/BpmMeasure/v15
+/BpmMeasure/bin/Debug
+/BpmMeasure/bin/Release/app.publish
+/BpmMeasure/bin/Release

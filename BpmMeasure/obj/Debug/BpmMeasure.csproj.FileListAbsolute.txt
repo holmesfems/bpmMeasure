@@ -1,0 +1,17 @@
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\BpmMeasure.exe.config
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\BpmMeasure.exe
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\BpmMeasure.pdb
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\MathNet.Numerics.dll
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\MathNet.Numerics.xml
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.csprojAssemblyReference.cache
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.Form1.resources
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.Properties.Resources.resources
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.csproj.GenerateResource.cache
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.csproj.CoreCompileInputs.cache
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.csproj.CopyComplete
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.exe
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.pdb
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\BpmMeasure.exe.manifest
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\bin\Debug\BpmMeasure.application
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.exe.manifest
+C:\Users\zhaig\source\repos\BpmMeasure\BpmMeasure\obj\Debug\BpmMeasure.application
