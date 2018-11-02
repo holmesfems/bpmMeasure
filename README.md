@@ -1,0 +1,2 @@
+# bpmMeasure
+measure bpm manually
